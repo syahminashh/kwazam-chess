@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Biz
+comment1.params=color\ x\ y
+comment1.target=Biz(java.lang.String,\ int,\ int)
+comment2.params=newX\ newY\ board
+comment2.target=boolean\ isValidMove(int,\ int,\ Board)
+comment3.params=newX\ newY
+comment3.target=void\ move(int,\ int)
+numComments=4

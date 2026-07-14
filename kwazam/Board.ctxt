@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Board
+comment1.params=
+comment1.target=Board()
+comment2.params=
+comment2.target=void\ setupInitialPosition()
+comment3.params=x\ y
+comment3.target=Piece\ getPiece(int,\ int)
+comment4.params=x\ y\ piece
+comment4.target=void\ setPiece(int,\ int,\ Piece)
+comment5.params=
+comment5.target=void\ clearBoard()
+comment6.params=
+comment6.target=void\ switchPieces()
+numComments=7

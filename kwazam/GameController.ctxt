@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=GameController
+comment1.params=model\ view
+comment1.target=GameController(GameModel,\ GameView)
+comment2.params=fromX\ fromY\ toX\ toY
+comment2.target=void\ handleMove(int,\ int,\ int,\ int)
+numComments=3
